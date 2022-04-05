@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
+    "@types/next-auth": "^3.15.0",
     "next": "12.1.4",
+    "next-auth": "^4.3.1",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-icons": "^4.3.1",
