@@ -35,6 +35,9 @@
         color: var(--white);
       }
 
+      &.active {
+        color: var(--white);
+      }
       &.active::after {
         content: '';
         height: 0.18rem;
